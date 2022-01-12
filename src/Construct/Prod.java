@@ -4,10 +4,6 @@ public class Prod {
 
     public static void main(String[] args) {
 
-        private boolean prodAvail;
-
-        Storage1 storage1 = new Storage1();
-
         int b = 5; //количество коробок с товаром
         int p = 10; //количество ед-ц товара в коробке
         int t = b*p; //общее количество товара
